@@ -40,8 +40,9 @@
 
 
 
-/VM_NBB/Vision_NBB/.vs
-/VM_NBB/Vision_NBB/Connected Services
-/VM_NBB/Vision_NBB/bin/x64/Release/log
-/VM_NBB/PLCDevice/obj
-/VM_NBB/Vision_NBB/obj
+
+/PLCDevice/obj
+/Vision_NBB/obj
+/Vision_NBB/.vs
+/Vision_NBB/bin/x64/Release/log
+/Vision_NBB/bin/x64/Release/Visionlog
