@@ -1,0 +1,532 @@
+2024-02-23 21:37:40.249 INFO  [2992] [CAuthorization::Init@57] Init begin.
+
+2024-02-23 21:37:40.249 INFO  [2992] [GetDllFilePath@262] path[C:\Program Files\VisionMaster4.3.0\Applications\Server]
+
+2024-02-23 21:37:40.249 ERROR [2992] [CDongleV4::LoadCfgParam@368] Load auth name file fail, [C:\Program Files\VisionMaster4.3.0\Applications\Server\ServerAuthName.ini].
+
+2024-02-23 21:37:40.278 ERROR [2992] [CDongleV4::GetLicenseWithState@417] MVIE_GetLicense return[-2]
+
+2024-02-23 21:37:40.278 ERROR [2992] [CDongleV4::GetLicenseInfo@478] GetLicenseWithState fail.
+
+2024-02-23 21:37:40.446 INFO  [2992] [CDongleV5::Login@85] MV_LoginLicense sucessfully, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2024-02-23 21:37:40.446 INFO  [2992] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2024-02-23 21:37:40.462 INFO  [2992] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2024-02-23 21:37:40.481 INFO  [2992] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7200], camera num[4], soft version[1]
+
+2024-02-23 21:37:40.481 INFO  [2992] [CDongleV5::GetDongleInfo@163] Dongle serial number[253298679]
+
+2024-02-23 21:37:40.515 INFO  [2992] [CDongleV5::GetLicenseInfo@270] GetRemainTime end.
+
+2024-02-23 21:37:40.515 INFO  [2992] [CAuthorization::Init@86] Get license v5 sucessfully
+
+2024-02-23 21:37:40.515 INFO  [2992] [CAuthorization::StartCheckThread@208] StartCheckThread begin.
+
+2024-02-23 21:37:40.515 INFO  [2992] [CAuthorization::StartCheckThread@234] StartCheckThread end.
+
+2024-02-23 21:37:40.515 INFO  [2992] [CAuthorization::Init@119] Init end.
+
+2024-02-23 21:37:40.728 INFO  [15856] [CAuthorization::DoAuthCheck@260] DoAuthCheck begin.
+
+2024-02-23 21:37:40.730 ERROR [15856] [CDongleV4::GetLicenseWithState@417] MVIE_GetLicense return[-2]
+
+2024-02-23 21:37:40.730 ERROR [15856] [CDongleV4::GetLicenseInfo@478] GetLicenseWithState fail.
+
+2024-02-23 21:37:40.730 ERROR [15856] [CAuthorization::DoAuthCheck@273] Can not find v4 dongle
+
+2024-02-23 21:37:40.932 INFO  [15856] [CDongleV5::Login@85] MV_LoginLicense sucessfully, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2024-02-23 21:37:40.932 INFO  [15856] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2024-02-23 21:37:40.948 INFO  [15856] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2024-02-23 21:37:40.966 INFO  [15856] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7200], camera num[4], soft version[1]
+
+2024-02-23 21:37:40.966 INFO  [15856] [CDongleV5::GetDongleInfo@163] Dongle serial number[253298679]
+
+2024-02-23 21:37:40.999 INFO  [15856] [CDongleV5::GetLicenseInfo@270] GetRemainTime end.
+
+2024-02-23 21:37:40.730 INFO  [2992] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2024-02-23 21:37:40.730 INFO  [2992] [CMonitorResourceUsage::Init@47] Init begin.
+
+2024-02-23 21:37:40.730 INFO  [2992] [GetDllFilePath@262] path[C:\Program Files\VisionMaster4.3.0\Applications\Server]
+
+2024-02-23 21:37:40.730 INFO  [2992] [CMonitorResourceUsage::LoadCfgParam@449] Now resource monitor interval[5]
+
+2024-02-23 21:37:40.730 INFO  [2992] [CMonitorResourceUsage::StartMonitorThread@90] StartMonitorThread begin.
+
+2024-02-23 21:37:40.730 INFO  [2992] [CMonitorResourceUsage::StartMonitorThread@121] StartCheckThread end.
+
+2024-02-23 21:37:40.730 INFO  [2992] [InitPluginInstance@39] InitPluginInstance - End
+
+2024-02-23 21:37:40.732 INFO  [12984] [CMonitorResourceUsage::DoMonitorRes@176] DoMonitorResource begin.
+
+2024-02-23 21:37:40.732 INFO  [12984] [CMonitorResourceUsage::SystemVersionMoreThanWin10@155] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2024-02-23 21:37:40.732 INFO  [12984] [CMonitorResourceUsage::DoMonitorRes@200] Do not check process resource
+
+2024-02-23 21:38:29.673 INFO  [2408] [CAuthorization::Init@57] Init begin.
+
+2024-02-23 21:38:29.673 INFO  [2408] [GetDllFilePath@262] path[C:\Program Files\VisionMaster4.3.0\Applications\Server]
+
+2024-02-23 21:38:29.673 ERROR [2408] [CDongleV4::LoadCfgParam@368] Load auth name file fail, [C:\Program Files\VisionMaster4.3.0\Applications\Server\ServerAuthName.ini].
+
+2024-02-23 21:38:29.697 ERROR [2408] [CDongleV4::GetLicenseWithState@417] MVIE_GetLicense return[-2]
+
+2024-02-23 21:38:29.697 ERROR [2408] [CDongleV4::GetLicenseInfo@478] GetLicenseWithState fail.
+
+2024-02-23 21:38:29.926 INFO  [2408] [CDongleV5::Login@85] MV_LoginLicense sucessfully, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2024-02-23 21:38:29.926 INFO  [2408] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2024-02-23 21:38:29.945 INFO  [2408] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2024-02-23 21:38:29.964 INFO  [2408] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7200], camera num[4], soft version[1]
+
+2024-02-23 21:38:29.964 INFO  [2408] [CDongleV5::GetDongleInfo@163] Dongle serial number[253298679]
+
+2024-02-23 21:38:29.998 INFO  [2408] [CDongleV5::GetLicenseInfo@270] GetRemainTime end.
+
+2024-02-23 21:38:29.998 INFO  [2408] [CAuthorization::Init@86] Get license v5 sucessfully
+
+2024-02-23 21:38:29.998 INFO  [2408] [CAuthorization::StartCheckThread@208] StartCheckThread begin.
+
+2024-02-23 21:38:29.998 INFO  [2408] [CAuthorization::StartCheckThread@234] StartCheckThread end.
+
+2024-02-23 21:38:29.998 INFO  [2408] [CAuthorization::Init@119] Init end.
+
+2024-02-23 21:38:29.999 INFO  [7716] [CAuthorization::DoAuthCheck@260] DoAuthCheck begin.
+
+2024-02-23 21:38:30.000 ERROR [7716] [CDongleV4::GetLicenseWithState@417] MVIE_GetLicense return[-2]
+
+2024-02-23 21:38:30.000 ERROR [7716] [CDongleV4::GetLicenseInfo@478] GetLicenseWithState fail.
+
+2024-02-23 21:38:30.000 ERROR [7716] [CAuthorization::DoAuthCheck@273] Can not find v4 dongle
+
+2024-02-23 21:38:30.181 INFO  [7716] [CDongleV5::Login@85] MV_LoginLicense sucessfully, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2024-02-23 21:38:30.181 INFO  [7716] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2024-02-23 21:38:30.257 INFO  [7716] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2024-02-23 21:38:30.277 INFO  [7716] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7200], camera num[4], soft version[1]
+
+2024-02-23 21:38:30.277 INFO  [7716] [CDongleV5::GetDongleInfo@163] Dongle serial number[253298679]
+
+2024-02-23 21:38:30.342 INFO  [7716] [CDongleV5::GetLicenseInfo@270] GetRemainTime end.
+
+2024-02-23 21:38:30.000 INFO  [2408] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2024-02-23 21:38:30.000 INFO  [2408] [CMonitorResourceUsage::Init@47] Init begin.
+
+2024-02-23 21:38:30.000 INFO  [2408] [GetDllFilePath@262] path[C:\Program Files\VisionMaster4.3.0\Applications\Server]
+
+2024-02-23 21:38:30.000 INFO  [2408] [CMonitorResourceUsage::LoadCfgParam@449] Now resource monitor interval[5]
+
+2024-02-23 21:38:30.000 INFO  [2408] [CMonitorResourceUsage::StartMonitorThread@90] StartMonitorThread begin.
+
+2024-02-23 21:38:30.001 INFO  [2408] [CMonitorResourceUsage::StartMonitorThread@121] StartCheckThread end.
+
+2024-02-23 21:38:30.001 INFO  [2408] [InitPluginInstance@39] InitPluginInstance - End
+
+2024-02-23 21:38:30.001 INFO  [20128] [CMonitorResourceUsage::DoMonitorRes@176] DoMonitorResource begin.
+
+2024-02-23 21:38:30.001 INFO  [20128] [CMonitorResourceUsage::SystemVersionMoreThanWin10@155] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2024-02-23 21:38:30.001 INFO  [20128] [CMonitorResourceUsage::DoMonitorRes@200] Do not check process resource
+
+2024-02-23 21:48:47.994 INFO  [22420] [CAuthorization::Init@57] Init begin.
+
+2024-02-23 21:48:47.994 INFO  [22420] [GetDllFilePath@262] path[C:\Program Files\VisionMaster4.3.0\Applications\Server]
+
+2024-02-23 21:48:47.994 ERROR [22420] [CDongleV4::LoadCfgParam@368] Load auth name file fail, [C:\Program Files\VisionMaster4.3.0\Applications\Server\ServerAuthName.ini].
+
+2024-02-23 21:48:48.027 ERROR [22420] [CDongleV4::GetLicenseWithState@417] MVIE_GetLicense return[-2]
+
+2024-02-23 21:48:48.027 ERROR [22420] [CDongleV4::GetLicenseInfo@478] GetLicenseWithState fail.
+
+2024-02-23 21:48:48.232 INFO  [22420] [CDongleV5::Login@85] MV_LoginLicense sucessfully, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2024-02-23 21:48:48.232 INFO  [22420] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2024-02-23 21:48:48.250 INFO  [22420] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2024-02-23 21:48:48.293 INFO  [22420] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7200], camera num[4], soft version[1]
+
+2024-02-23 21:48:48.293 INFO  [22420] [CDongleV5::GetDongleInfo@163] Dongle serial number[253298679]
+
+2024-02-23 21:48:48.396 INFO  [22420] [CDongleV5::GetLicenseInfo@270] GetRemainTime end.
+
+2024-02-23 21:48:48.396 INFO  [22420] [CAuthorization::Init@86] Get license v5 sucessfully
+
+2024-02-23 21:48:48.396 INFO  [22420] [CAuthorization::StartCheckThread@208] StartCheckThread begin.
+
+2024-02-23 21:48:48.396 INFO  [22420] [CAuthorization::StartCheckThread@234] StartCheckThread end.
+
+2024-02-23 21:48:48.396 INFO  [22420] [CAuthorization::Init@119] Init end.
+
+2024-02-23 21:48:48.399 INFO  [10516] [CAuthorization::DoAuthCheck@260] DoAuthCheck begin.
+
+2024-02-23 21:48:48.401 ERROR [10516] [CDongleV4::GetLicenseWithState@417] MVIE_GetLicense return[-2]
+
+2024-02-23 21:48:48.401 ERROR [10516] [CDongleV4::GetLicenseInfo@478] GetLicenseWithState fail.
+
+2024-02-23 21:48:48.401 ERROR [10516] [CAuthorization::DoAuthCheck@273] Can not find v4 dongle
+
+2024-02-23 21:48:48.603 INFO  [10516] [CDongleV5::Login@85] MV_LoginLicense sucessfully, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2024-02-23 21:48:48.603 INFO  [10516] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2024-02-23 21:48:48.680 INFO  [10516] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2024-02-23 21:48:48.698 INFO  [10516] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7200], camera num[4], soft version[1]
+
+2024-02-23 21:48:48.698 INFO  [10516] [CDongleV5::GetDongleInfo@163] Dongle serial number[253298679]
+
+2024-02-23 21:48:48.734 INFO  [10516] [CDongleV5::GetLicenseInfo@270] GetRemainTime end.
+
+2024-02-23 21:48:48.400 INFO  [22420] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2024-02-23 21:48:48.400 INFO  [22420] [CMonitorResourceUsage::Init@47] Init begin.
+
+2024-02-23 21:48:48.400 INFO  [22420] [GetDllFilePath@262] path[C:\Program Files\VisionMaster4.3.0\Applications\Server]
+
+2024-02-23 21:48:48.400 INFO  [22420] [CMonitorResourceUsage::LoadCfgParam@449] Now resource monitor interval[5]
+
+2024-02-23 21:48:48.400 INFO  [22420] [CMonitorResourceUsage::StartMonitorThread@90] StartMonitorThread begin.
+
+2024-02-23 21:48:48.400 INFO  [22420] [CMonitorResourceUsage::StartMonitorThread@121] StartCheckThread end.
+
+2024-02-23 21:48:48.400 INFO  [22420] [InitPluginInstance@39] InitPluginInstance - End
+
+2024-02-23 21:48:48.404 INFO  [14800] [CMonitorResourceUsage::DoMonitorRes@176] DoMonitorResource begin.
+
+2024-02-23 21:48:48.404 INFO  [14800] [CMonitorResourceUsage::SystemVersionMoreThanWin10@155] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2024-02-23 21:48:48.404 INFO  [14800] [CMonitorResourceUsage::DoMonitorRes@200] Do not check process resource
+
+2024-02-23 21:52:45.839 INFO  [17148] [CAuthorization::Init@57] Init begin.
+
+2024-02-23 21:52:45.839 INFO  [17148] [GetDllFilePath@262] path[C:\Program Files\VisionMaster4.3.0\Applications\Server]
+
+2024-02-23 21:52:45.840 ERROR [17148] [CDongleV4::LoadCfgParam@368] Load auth name file fail, [C:\Program Files\VisionMaster4.3.0\Applications\Server\ServerAuthName.ini].
+
+2024-02-23 21:52:45.848 ERROR [17148] [CDongleV4::GetLicenseWithState@417] MVIE_GetLicense return[-2]
+
+2024-02-23 21:52:45.848 ERROR [17148] [CDongleV4::GetLicenseInfo@478] GetLicenseWithState fail.
+
+2024-02-23 21:52:46.050 INFO  [17148] [CDongleV5::Login@85] MV_LoginLicense sucessfully, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2024-02-23 21:52:46.050 INFO  [17148] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2024-02-23 21:52:46.058 INFO  [17148] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2024-02-23 21:52:46.078 INFO  [17148] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7200], camera num[4], soft version[1]
+
+2024-02-23 21:52:46.078 INFO  [17148] [CDongleV5::GetDongleInfo@163] Dongle serial number[253298679]
+
+2024-02-23 21:52:46.122 INFO  [17148] [CDongleV5::GetLicenseInfo@270] GetRemainTime end.
+
+2024-02-23 21:52:46.122 INFO  [17148] [CAuthorization::Init@86] Get license v5 sucessfully
+
+2024-02-23 21:52:46.122 INFO  [17148] [CAuthorization::StartCheckThread@208] StartCheckThread begin.
+
+2024-02-23 21:52:46.122 INFO  [17148] [CAuthorization::StartCheckThread@234] StartCheckThread end.
+
+2024-02-23 21:52:46.122 INFO  [17148] [CAuthorization::Init@119] Init end.
+
+2024-02-23 21:52:46.126 INFO  [8128] [CAuthorization::DoAuthCheck@260] DoAuthCheck begin.
+
+2024-02-23 21:52:46.128 ERROR [8128] [CDongleV4::GetLicenseWithState@417] MVIE_GetLicense return[-2]
+
+2024-02-23 21:52:46.128 ERROR [8128] [CDongleV4::GetLicenseInfo@478] GetLicenseWithState fail.
+
+2024-02-23 21:52:46.128 ERROR [8128] [CAuthorization::DoAuthCheck@273] Can not find v4 dongle
+
+2024-02-23 21:52:46.388 INFO  [8128] [CDongleV5::Login@85] MV_LoginLicense sucessfully, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2024-02-23 21:52:46.388 INFO  [8128] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2024-02-23 21:52:46.413 INFO  [8128] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2024-02-23 21:52:46.490 INFO  [8128] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7200], camera num[4], soft version[1]
+
+2024-02-23 21:52:46.490 INFO  [8128] [CDongleV5::GetDongleInfo@163] Dongle serial number[253298679]
+
+2024-02-23 21:52:46.545 INFO  [8128] [CDongleV5::GetLicenseInfo@270] GetRemainTime end.
+
+2024-02-23 21:52:46.128 INFO  [17148] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2024-02-23 21:52:46.128 INFO  [17148] [CMonitorResourceUsage::Init@47] Init begin.
+
+2024-02-23 21:52:46.128 INFO  [17148] [GetDllFilePath@262] path[C:\Program Files\VisionMaster4.3.0\Applications\Server]
+
+2024-02-23 21:52:46.128 INFO  [17148] [CMonitorResourceUsage::LoadCfgParam@449] Now resource monitor interval[5]
+
+2024-02-23 21:52:46.128 INFO  [17148] [CMonitorResourceUsage::StartMonitorThread@90] StartMonitorThread begin.
+
+2024-02-23 21:52:46.128 INFO  [17148] [CMonitorResourceUsage::StartMonitorThread@121] StartCheckThread end.
+
+2024-02-23 21:52:46.128 INFO  [17148] [InitPluginInstance@39] InitPluginInstance - End
+
+2024-02-23 21:52:46.129 INFO  [18304] [CMonitorResourceUsage::DoMonitorRes@176] DoMonitorResource begin.
+
+2024-02-23 21:52:46.129 INFO  [18304] [CMonitorResourceUsage::SystemVersionMoreThanWin10@155] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2024-02-23 21:52:46.129 INFO  [18304] [CMonitorResourceUsage::DoMonitorRes@200] Do not check process resource
+
+2024-02-23 22:04:08.877 INFO  [17032] [CAuthorization::StopCheckThead@245] StopCheckThead begin.
+
+2024-02-23 22:04:08.877 WARN  [8128] [CAuthorization::DoAuthCheck@350] DoAuthCheck m_bExitAuthCheckThd = true
+
+2024-02-23 22:04:08.877 INFO  [8128] [CAuthorization::DoAuthCheck@358] DoAuthCheck end.
+
+2024-02-23 22:04:08.878 INFO  [17032] [CAuthorization::StopCheckThead@250] StopCheckThead end.
+
+2024-02-23 22:04:08.894 INFO  [17032] [CAuthorization::Uninit@134] Uninit end
+
+2024-02-23 22:04:08.895 INFO  [17032] [UnitPluginInstance@51] UnitPluginInstance - Begin
+
+2024-02-23 22:04:08.895 INFO  [17032] [CMonitorResourceUsage::StopMonitorThead@132] StopMonitorThead begin.
+
+2024-02-23 22:04:08.919 INFO  [18304] [CMonitorResourceUsage::DoMonitorRes@229] DoMonitorResource end, m_bExitMonitorThread is true
+
+2024-02-23 22:04:08.920 INFO  [17032] [CMonitorResourceUsage::StopMonitorThead@145] StopMonitorThead end.
+
+2024-02-23 22:04:08.920 INFO  [17032] [UnitPluginInstance@55] UnitPluginInstance - End
+
+2024-02-24 09:43:15.948 INFO  [3396] [CAuthorization::Init@57] Init begin.
+
+2024-02-24 09:43:15.948 INFO  [3396] [GetDllFilePath@262] path[C:\Program Files\VisionMaster4.3.0\Applications\Server]
+
+2024-02-24 09:43:15.949 ERROR [3396] [CDongleV4::LoadCfgParam@368] Load auth name file fail, [C:\Program Files\VisionMaster4.3.0\Applications\Server\ServerAuthName.ini].
+
+2024-02-24 09:43:15.963 ERROR [3396] [CDongleV4::GetLicenseWithState@417] MVIE_GetLicense return[-2]
+
+2024-02-24 09:43:15.963 ERROR [3396] [CDongleV4::GetLicenseInfo@478] GetLicenseWithState fail.
+
+2024-02-24 09:43:16.126 INFO  [3396] [CDongleV5::Login@85] MV_LoginLicense sucessfully, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2024-02-24 09:43:16.126 INFO  [3396] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2024-02-24 09:43:16.200 INFO  [3396] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2024-02-24 09:43:16.224 INFO  [3396] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7200], camera num[4], soft version[1]
+
+2024-02-24 09:43:16.224 INFO  [3396] [CDongleV5::GetDongleInfo@163] Dongle serial number[253298679]
+
+2024-02-24 09:43:16.286 INFO  [3396] [CDongleV5::GetLicenseInfo@270] GetRemainTime end.
+
+2024-02-24 09:43:16.286 INFO  [3396] [CAuthorization::Init@86] Get license v5 sucessfully
+
+2024-02-24 09:43:16.286 INFO  [3396] [CAuthorization::StartCheckThread@208] StartCheckThread begin.
+
+2024-02-24 09:43:16.286 INFO  [3396] [CAuthorization::StartCheckThread@234] StartCheckThread end.
+
+2024-02-24 09:43:16.286 INFO  [3396] [CAuthorization::Init@119] Init end.
+
+2024-02-24 09:43:16.288 INFO  [12920] [CAuthorization::DoAuthCheck@260] DoAuthCheck begin.
+
+2024-02-24 09:43:16.289 ERROR [12920] [CDongleV4::GetLicenseWithState@417] MVIE_GetLicense return[-2]
+
+2024-02-24 09:43:16.289 ERROR [12920] [CDongleV4::GetLicenseInfo@478] GetLicenseWithState fail.
+
+2024-02-24 09:43:16.289 ERROR [12920] [CAuthorization::DoAuthCheck@273] Can not find v4 dongle
+
+2024-02-24 09:43:16.476 INFO  [12920] [CDongleV5::Login@85] MV_LoginLicense sucessfully, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2024-02-24 09:43:16.476 INFO  [12920] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2024-02-24 09:43:16.497 INFO  [12920] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2024-02-24 09:43:16.523 INFO  [12920] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7200], camera num[4], soft version[1]
+
+2024-02-24 09:43:16.523 INFO  [12920] [CDongleV5::GetDongleInfo@163] Dongle serial number[253298679]
+
+2024-02-24 09:43:16.567 INFO  [12920] [CDongleV5::GetLicenseInfo@270] GetRemainTime end.
+
+2024-02-24 09:43:16.289 INFO  [3396] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2024-02-24 09:43:16.289 INFO  [3396] [CMonitorResourceUsage::Init@47] Init begin.
+
+2024-02-24 09:43:16.289 INFO  [3396] [GetDllFilePath@262] path[C:\Program Files\VisionMaster4.3.0\Applications\Server]
+
+2024-02-24 09:43:16.289 INFO  [3396] [CMonitorResourceUsage::LoadCfgParam@449] Now resource monitor interval[5]
+
+2024-02-24 09:43:16.289 INFO  [3396] [CMonitorResourceUsage::StartMonitorThread@90] StartMonitorThread begin.
+
+2024-02-24 09:43:16.289 INFO  [3396] [CMonitorResourceUsage::StartMonitorThread@121] StartCheckThread end.
+
+2024-02-24 09:43:16.289 INFO  [3396] [InitPluginInstance@39] InitPluginInstance - End
+
+2024-02-24 09:43:16.290 INFO  [12240] [CMonitorResourceUsage::DoMonitorRes@176] DoMonitorResource begin.
+
+2024-02-24 09:43:16.290 INFO  [12240] [CMonitorResourceUsage::SystemVersionMoreThanWin10@155] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2024-02-24 09:43:16.290 INFO  [12240] [CMonitorResourceUsage::DoMonitorRes@200] Do not check process resource
+
+2024-02-24 09:47:09.666 INFO  [12136] [CAuthorization::Init@57] Init begin.
+
+2024-02-24 09:47:09.666 INFO  [12136] [GetDllFilePath@262] path[C:\Program Files\VisionMaster4.3.0\Applications\Server]
+
+2024-02-24 09:47:09.666 ERROR [12136] [CDongleV4::LoadCfgParam@368] Load auth name file fail, [C:\Program Files\VisionMaster4.3.0\Applications\Server\ServerAuthName.ini].
+
+2024-02-24 09:47:09.696 ERROR [12136] [CDongleV4::GetLicenseWithState@417] MVIE_GetLicense return[-2]
+
+2024-02-24 09:47:09.696 ERROR [12136] [CDongleV4::GetLicenseInfo@478] GetLicenseWithState fail.
+
+2024-02-24 09:47:09.860 INFO  [12136] [CDongleV5::Login@85] MV_LoginLicense sucessfully, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2024-02-24 09:47:09.860 INFO  [12136] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2024-02-24 09:47:09.933 INFO  [12136] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2024-02-24 09:47:09.953 INFO  [12136] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7200], camera num[4], soft version[1]
+
+2024-02-24 09:47:09.953 INFO  [12136] [CDongleV5::GetDongleInfo@163] Dongle serial number[253298679]
+
+2024-02-24 09:47:09.991 INFO  [12136] [CDongleV5::GetLicenseInfo@270] GetRemainTime end.
+
+2024-02-24 09:47:09.991 INFO  [12136] [CAuthorization::Init@86] Get license v5 sucessfully
+
+2024-02-24 09:47:09.991 INFO  [12136] [CAuthorization::StartCheckThread@208] StartCheckThread begin.
+
+2024-02-24 09:47:09.991 INFO  [12136] [CAuthorization::StartCheckThread@234] StartCheckThread end.
+
+2024-02-24 09:47:09.991 INFO  [12136] [CAuthorization::Init@119] Init end.
+
+2024-02-24 09:47:09.992 INFO  [1316] [CAuthorization::DoAuthCheck@260] DoAuthCheck begin.
+
+2024-02-24 09:47:09.993 ERROR [1316] [CDongleV4::GetLicenseWithState@417] MVIE_GetLicense return[-2]
+
+2024-02-24 09:47:09.993 ERROR [1316] [CDongleV4::GetLicenseInfo@478] GetLicenseWithState fail.
+
+2024-02-24 09:47:09.993 ERROR [1316] [CAuthorization::DoAuthCheck@273] Can not find v4 dongle
+
+2024-02-24 09:47:10.236 INFO  [1316] [CDongleV5::Login@85] MV_LoginLicense sucessfully, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2024-02-24 09:47:10.236 INFO  [1316] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2024-02-24 09:47:10.243 INFO  [1316] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2024-02-24 09:47:10.261 INFO  [1316] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7200], camera num[4], soft version[1]
+
+2024-02-24 09:47:10.261 INFO  [1316] [CDongleV5::GetDongleInfo@163] Dongle serial number[253298679]
+
+2024-02-24 09:47:10.323 INFO  [1316] [CDongleV5::GetLicenseInfo@270] GetRemainTime end.
+
+2024-02-24 09:47:09.993 INFO  [12136] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2024-02-24 09:47:09.994 INFO  [12136] [CMonitorResourceUsage::Init@47] Init begin.
+
+2024-02-24 09:47:09.994 INFO  [12136] [GetDllFilePath@262] path[C:\Program Files\VisionMaster4.3.0\Applications\Server]
+
+2024-02-24 09:47:09.994 INFO  [12136] [CMonitorResourceUsage::LoadCfgParam@449] Now resource monitor interval[5]
+
+2024-02-24 09:47:09.994 INFO  [12136] [CMonitorResourceUsage::StartMonitorThread@90] StartMonitorThread begin.
+
+2024-02-24 09:47:09.994 INFO  [12136] [CMonitorResourceUsage::StartMonitorThread@121] StartCheckThread end.
+
+2024-02-24 09:47:09.994 INFO  [12136] [InitPluginInstance@39] InitPluginInstance - End
+
+2024-02-24 09:47:09.995 INFO  [14488] [CMonitorResourceUsage::DoMonitorRes@176] DoMonitorResource begin.
+
+2024-02-24 09:47:09.995 INFO  [14488] [CMonitorResourceUsage::SystemVersionMoreThanWin10@155] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2024-02-24 09:47:09.995 INFO  [14488] [CMonitorResourceUsage::DoMonitorRes@200] Do not check process resource
+
+2024-02-24 09:55:35.561 INFO  [5900] [CAuthorization::Init@57] Init begin.
+
+2024-02-24 09:55:35.561 INFO  [5900] [GetDllFilePath@262] path[C:\Program Files\VisionMaster4.3.0\Applications\Server]
+
+2024-02-24 09:55:35.561 ERROR [5900] [CDongleV4::LoadCfgParam@368] Load auth name file fail, [C:\Program Files\VisionMaster4.3.0\Applications\Server\ServerAuthName.ini].
+
+2024-02-24 09:55:35.569 ERROR [5900] [CDongleV4::GetLicenseWithState@417] MVIE_GetLicense return[-2]
+
+2024-02-24 09:55:35.569 ERROR [5900] [CDongleV4::GetLicenseInfo@478] GetLicenseWithState fail.
+
+2024-02-24 09:55:35.823 INFO  [5900] [CDongleV5::Login@85] MV_LoginLicense sucessfully, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2024-02-24 09:55:35.823 INFO  [5900] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2024-02-24 09:55:35.830 INFO  [5900] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2024-02-24 09:55:35.848 INFO  [5900] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7200], camera num[4], soft version[1]
+
+2024-02-24 09:55:35.848 INFO  [5900] [CDongleV5::GetDongleInfo@163] Dongle serial number[253298679]
+
+2024-02-24 09:55:35.906 INFO  [5900] [CDongleV5::GetLicenseInfo@270] GetRemainTime end.
+
+2024-02-24 09:55:35.906 INFO  [5900] [CAuthorization::Init@86] Get license v5 sucessfully
+
+2024-02-24 09:55:35.906 INFO  [5900] [CAuthorization::StartCheckThread@208] StartCheckThread begin.
+
+2024-02-24 09:55:35.906 INFO  [5900] [CAuthorization::StartCheckThread@234] StartCheckThread end.
+
+2024-02-24 09:55:35.906 INFO  [5900] [CAuthorization::Init@119] Init end.
+
+2024-02-24 09:55:35.908 INFO  [13672] [CAuthorization::DoAuthCheck@260] DoAuthCheck begin.
+
+2024-02-24 09:55:35.909 ERROR [13672] [CDongleV4::GetLicenseWithState@417] MVIE_GetLicense return[-2]
+
+2024-02-24 09:55:35.909 ERROR [13672] [CDongleV4::GetLicenseInfo@478] GetLicenseWithState fail.
+
+2024-02-24 09:55:35.909 ERROR [13672] [CAuthorization::DoAuthCheck@273] Can not find v4 dongle
+
+2024-02-24 09:55:36.095 INFO  [13672] [CDongleV5::Login@85] MV_LoginLicense sucessfully, dongle type[0](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2024-02-24 09:55:36.095 INFO  [13672] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2024-02-24 09:55:36.173 INFO  [13672] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2024-02-24 09:55:36.195 INFO  [13672] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7200], camera num[4], soft version[1]
+
+2024-02-24 09:55:36.195 INFO  [13672] [CDongleV5::GetDongleInfo@163] Dongle serial number[253298679]
+
+2024-02-24 09:55:36.260 INFO  [13672] [CDongleV5::GetLicenseInfo@270] GetRemainTime end.
+
+2024-02-24 09:55:35.909 INFO  [5900] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2024-02-24 09:55:35.909 INFO  [5900] [CMonitorResourceUsage::Init@47] Init begin.
+
+2024-02-24 09:55:35.909 INFO  [5900] [GetDllFilePath@262] path[C:\Program Files\VisionMaster4.3.0\Applications\Server]
+
+2024-02-24 09:55:35.909 INFO  [5900] [CMonitorResourceUsage::LoadCfgParam@449] Now resource monitor interval[5]
+
+2024-02-24 09:55:35.909 INFO  [5900] [CMonitorResourceUsage::StartMonitorThread@90] StartMonitorThread begin.
+
+2024-02-24 09:55:35.909 INFO  [5900] [CMonitorResourceUsage::StartMonitorThread@121] StartCheckThread end.
+
+2024-02-24 09:55:35.909 INFO  [5900] [InitPluginInstance@39] InitPluginInstance - End
+
+2024-02-24 09:55:35.910 INFO  [17248] [CMonitorResourceUsage::DoMonitorRes@176] DoMonitorResource begin.
+
+2024-02-24 09:55:35.910 INFO  [17248] [CMonitorResourceUsage::SystemVersionMoreThanWin10@155] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2024-02-24 09:55:35.910 INFO  [17248] [CMonitorResourceUsage::DoMonitorRes@200] Do not check process resource
+
+2024-02-24 09:55:37.043 INFO  [17248] [CMonitorResourceUsage::DoMonitorRes@264] DoMonitorResource memoryUsage[51] CPU[90] DiskFreeMB[46268].
+
+2024-02-24 09:55:48.959 INFO  [19996] [CAuthorization::StopCheckThead@245] StopCheckThead begin.
+
+2024-02-24 09:55:48.959 WARN  [13672] [CAuthorization::DoAuthCheck@350] DoAuthCheck m_bExitAuthCheckThd = true
+
+2024-02-24 09:55:48.959 INFO  [13672] [CAuthorization::DoAuthCheck@358] DoAuthCheck end.
+
+2024-02-24 09:55:48.960 INFO  [19996] [CAuthorization::StopCheckThead@250] StopCheckThead end.
+
+2024-02-24 09:55:48.976 INFO  [19996] [CAuthorization::Uninit@134] Uninit end
+
+2024-02-24 09:55:48.978 INFO  [19996] [UnitPluginInstance@51] UnitPluginInstance - Begin
+
+2024-02-24 09:55:48.978 INFO  [19996] [CMonitorResourceUsage::StopMonitorThead@132] StopMonitorThead begin.
+
+2024-02-24 09:55:48.989 INFO  [17248] [CMonitorResourceUsage::DoMonitorRes@229] DoMonitorResource end, m_bExitMonitorThread is true
+
+2024-02-24 09:55:48.991 INFO  [19996] [CMonitorResourceUsage::StopMonitorThead@145] StopMonitorThead end.
+
+2024-02-24 09:55:48.991 INFO  [19996] [UnitPluginInstance@55] UnitPluginInstance - End
+
